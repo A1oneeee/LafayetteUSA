@@ -1,2 +1,4 @@
 # LafayetteUSA
-Python / IA
+## Task 1 : Data Analysis for Python
+
+### Note
