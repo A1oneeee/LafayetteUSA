@@ -44,4 +44,6 @@ Two options for data analysis :
 2. Data analysis have better communication skills, better reports with stronger storytelling abilities
 
 ### Note Part 2️⃣
+RAS
 
+### Note Part 3️⃣
