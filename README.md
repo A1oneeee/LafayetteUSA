@@ -1,7 +1,7 @@
 # LafayetteUSA
 ## Task 1 : Data Analysis for Python
 
-### Vidéo [Link to the video](https://www.youtube.com/watch?v=r-uOLxNrNk8)  Actual : **22:00**
+### Vidéo [Link to the video](https://www.youtube.com/watch?v=r-uOLxNrNk8)  Actual : **25:00**
 
 ✅ or ❌
 
