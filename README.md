@@ -22,5 +22,8 @@
 ❌ Part 8 : Python Recap 
 
 ### Note
-Data analysis: A process of inpecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusion and supporting decision-making.
-2 options for data analysis : Auto-managed closed tools and Programming languages
+**Data analysis**: A process of inpecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusion and supporting decision-making.
+
+Two options for data analysis : 
+- **Auto-managed closed tools** (closed source, expensive, limited, easy to learn)
+- **Programming languages** (open source, free, extremly powerful, steep learning curve)
