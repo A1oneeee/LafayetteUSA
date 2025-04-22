@@ -1,13 +1,13 @@
 # LafayetteUSA
 ## Task 1 : Data Analysis for Python
 
-### Vidéo [Link to the video](https://www.youtube.com/watch?v=r-uOLxNrNk8)  Actual : **25:00**
+### Vidéo [Link to the video](https://www.youtube.com/watch?v=r-uOLxNrNk8)  Actual : **31:00**
 
 ✅ or ❌
 
 ✅ Part 1 : Introduction
 
-❌ Part 2 : Real Life Example of a Python/Pandas Data Analysis project
+✅ Part 2 : Real Life Example of a Python/Pandas Data Analysis project
 
 ❌ Part 3 : Jupyter Notebooks Tutorial
 
