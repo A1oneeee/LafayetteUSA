@@ -1,9 +1,25 @@
 # LafayetteUSA
 ## Task 1 : Data Analysis for Python
 
-### Vidéo 
-[Link to the video](https://www.youtube.com/watch?v=r-uOLxNrNk8) 
-Actual : **4:41**
+### Vidéo [Link to the video](https://www.youtube.com/watch?v=r-uOLxNrNk8)  Actual : **4:41**
+
+✅ or ❌
+
+❌ Part 1 : Introduction
+
+❌ Part 2 : Real Life Example of a Python/Pandas Data Analysis project
+
+❌ Part 3 : Jupyter Notebooks Tutorial
+
+❌ Part 4 : Intro to NumPy
+
+❌ Part 5 : Intro to Pandas
+
+❌ Part 6 : Data Cleaning
+
+❌ Part 7 : Reading Data from other sources
+
+❌ Part 8 : Python Recap 
 
 ### Note
 Data analysis: A process of inpecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusion and supporting decision-making.
