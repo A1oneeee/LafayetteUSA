@@ -27,3 +27,14 @@
 Two options for data analysis : 
 - **Auto-managed closed tools** (closed source, expensive, limited, easy to learn)
 - **Programming languages** (open source, free, extremly powerful, steep learning curve)
+
+**Why Python in Data Analysis ?** (over R ou Julia)
+
+- Very simple and intuitive lg, powerfull lbries, free and open source, community
+
+**Data analysis Process** 
+  1. Data extraction
+  2. Data cleaning
+  3. Data Wrangling
+  4. Analysis
+  5. Action
