@@ -5,8 +5,8 @@
 
 ✅ or ❌
 
-❌ Basic Intro : 1.1 - 2.1 [ 0% ]
-  - Intro : 9min24 ❌
+❌ Basic Intro : 1.1 - 2.1 [ 14% ]
+  - Intro : 9min24 ✅
   - 1.1 : 5min35 ❌
   - 1.2 : 7min04 ❌
   - 1.3 : 6min13 ❌
