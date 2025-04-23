@@ -1,7 +1,7 @@
 # LafayetteUSA
 ## Task 1 : Data Analysis for Python
 
-### Vidéo [Link to the video](https://www.youtube.com/watch?v=r-uOLxNrNk8)  Actual : **1h:00**
+### Vidéo [Link to the video](https://www.youtube.com/watch?v=r-uOLxNrNk8)  Actual : **1h:40**
 
 ✅ or ❌
 
@@ -45,6 +45,12 @@ Two options for data analysis :
 
 ### Note Part 2️⃣
 RAS
+
+### Note Part 2️⃣
+RAS
+
+### Note Part 2️⃣
+Watch document Part4.ipynb
 
 ### Note Part 3️⃣
 RAS
