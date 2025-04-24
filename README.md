@@ -45,15 +45,12 @@ Two options for data analysis :
 2. Data analysis have better communication skills, better reports with stronger storytelling abilities
 
 ### Note Part 2️⃣
-RAS
-
-### Note Part 2️⃣
-RAS
-
-### Note Part 2️⃣
-Watch document Part4.ipynb
+- RAS
 
 ### Note Part 3️⃣
-RAS
+- RAS
 
 ### Note Part 4️⃣
+- Watch document Part4.ipynb
+
+### Note Part 
