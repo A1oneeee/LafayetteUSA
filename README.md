@@ -2,7 +2,7 @@
 ## Task 1 : Data Analysis for Python
 
 ### Vidéo [Link to the video](https://www.youtube.com/watch?v=r-uOLxNrNk8)  
-🕔 **2h36** on **4h22**
+🕔 **2h46** on **4h22**
 
 [  ✅ or ❌  ]
 
@@ -14,9 +14,9 @@
 
 ✅ Part 4 : Intro to NumPy
 
-➡️ Part 5 : Intro to Pandas
+✅ Part 5 : Intro to Pandas
 
-❌ Part 6 : Data Cleaning
+➡️ Part 6 : Data Cleaning
 
 ❌ Part 7 : Reading Data from other sources
 
@@ -56,3 +56,7 @@ Two options for data analysis :
 ### Note Part 5️⃣
 - Part5_Series.ipynb
 - Part5_Dataframe.ipynb
+- Part4_ReadData.ipynb
+
+### Note Part 6️⃣
+- 
