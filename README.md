@@ -2,7 +2,7 @@
 ## Task 1 : Data Analysis for Python
 
 ### Vidéo [Link to the video](https://www.youtube.com/watch?v=r-uOLxNrNk8)  
-🕔 **2h14** on **4h22**
+🕔 **2h36** on **4h22**
 
 [  ✅ or ❌  ]
 
@@ -55,3 +55,4 @@ Two options for data analysis :
 
 ### Note Part 5️⃣
 - Part5_Series.ipynb
+- Part5_Dataframe.ipynb
