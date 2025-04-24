@@ -1,7 +1,8 @@
 # LafayetteUSA
 ## Task 1 : Data Analysis for Python
 
-### Vidéo [Link to the video](https://www.youtube.com/watch?v=r-uOLxNrNk8)  Actual : **1h:40**
+### Vidéo [Link to the video](https://www.youtube.com/watch?v=r-uOLxNrNk8)  
+🕔 **1h57** on **4h22**
 
 ✅ or ❌
 
@@ -11,7 +12,7 @@
 
 ✅ Part 3 : Jupyter Notebooks Tutorial
 
-❌ Part 4 : Intro to NumPy
+✅ Part 4 : Intro to NumPy
 
 ❌ Part 5 : Intro to Pandas
 
