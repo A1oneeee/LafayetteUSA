@@ -2,7 +2,7 @@
 ## Task 1 : Data Analysis for Python
 
 ### Vidéo [Link to the video](https://www.youtube.com/watch?v=r-uOLxNrNk8)  
-🕔 **3h03** on **4h22**
+🕔 **3h13** on **4h22**
 
 [  ✅ or ❌  ]
 
@@ -60,3 +60,4 @@ Two options for data analysis :
 
 ### Note Part 6️⃣
 - DataCleaning.ipynb
+- CleaningNotNullValues.ipynb
