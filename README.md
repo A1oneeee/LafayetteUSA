@@ -2,7 +2,7 @@
 ## Task 1 : Data Analysis for Python
 
 ### Vidéo [Link to the video](https://www.youtube.com/watch?v=r-uOLxNrNk8)  
-🕔 **3h25** on **4h22**
+🕔 **3h28** on **4h22**
 
 [  ✅ or ❌  ]
 
