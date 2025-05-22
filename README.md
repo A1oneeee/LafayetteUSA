@@ -2,7 +2,7 @@
 ## Task 2 : ML course with Python Playlist
 ➡️ Total : 5 h 31 min 41 s
 
-### Vidéo [Playlist]([https://www.youtube.com/watch?v=r-uOLxNrNk8](https://fra01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbY__YW-xknU%26list%3DPLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&data=05%7C02%7Cvalentin.leroy1%40viacesi.fr%7Ce30694b1708e4c1752cd08dd4a151445%7C190ce420b15744aebc2f69563baa5a3b%7C1%7C0%7C638748176587807816%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ELDTCLAGCmFw6BRZ4NIV8C8tkuJIwME012BABdfhIXc%3D&reserved=0)) 
+### Vidéo [Playlist]([https://www.youtube.com/watch?v=r-uOLxNrNk8]) 
 
 ✅ or ❌
 
