@@ -15,12 +15,12 @@
   - 1.5 : 8min40 ✅
   - 2.1 : 10min17 ✅
 
-❌ Dataset and Data Preprocessing : 4.1 - 4.10 [ 40% ]
+❌ Dataset and Data Preprocessing : 4.1 - 4.10 [ 50% ]
   - 4.1 : 13min26 ✅
   - 4.2 : 14min29 ✅
   - 4.3 : 21min59 ✅
   - 4.4 : 20min14 ✅
-  - 4.5 : 19min18 ❌
+  - 4.5 : 19min18 ✅
   - 4.6 : 12min32 ❌
   - 4.7 : 19min10 ❌
   - 4.8 : 11min57 ❌
