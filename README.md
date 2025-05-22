@@ -12,7 +12,7 @@
   - 1.2 : 7min04 ✅
   - 1.3 : 6min13 ✅ Quiz : 15/15
   - 1.4 : 8min03 ✅
-  - 1.5 : 8min40 ❌
+  - 1.5 : 8min40 ✅
   - 2.1 : 10min17 ❌
 
 ❌ Dataset and Data Preprocessing : 4.1 - 4.10 [ 0% ]
