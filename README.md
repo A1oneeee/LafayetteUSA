@@ -2,7 +2,7 @@
 ## Task 2 : ML course with Python Playlist
 ➡️ Total : 7 h 11 min 47 s
 
-### Vidéo [Playlist]([https://www.youtube.com/watch?v=r-uOLxNrNk8]) 
+### Vidéo [Playlist]([https://www.youtube.com/watch?v=bY__YW-xknU&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I]) 
 
 ✅ or ❌
 
@@ -58,7 +58,7 @@
   - 7.2.5 : 1h05min ❌
   - 7.2.6 : 29min ❌
 
-❌ Pick one project [ 0% ]
+❌ Pick one project [ 0% ] (17 or 18)
   - Project Spam Mail : 1h02min54 ❌
 
 ❌ Machine Learning : 7.3.1 - 7.3.7 [ 0% ]
