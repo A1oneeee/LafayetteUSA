@@ -34,8 +34,8 @@
 ❌ (If needed) Maths for ML [ 0% ]
   - 0.0 : 00min00 ❌
 
-🔃 Machine Learning : 6.1 - 7.2.6 [ 0% ]
-  - 6.1 : 21min ❌
+🔃 Machine Learning : 6.1 - 7.2.6 [ 5% ]
+  - 6.1 : 21min ✅
   - 6.2 : 8min ❌
   - 6.3 : 6min ❌
   - 6.4 : 14min ❌
