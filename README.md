@@ -27,9 +27,9 @@
   - 4.9 : 20min35 ✅
   - 4.10 : 36min21 ✅
 
-🔃 Choose 2 projects [ 0% ]
+🔃 Choose 2 projects [ 50% ]
   - Project 9 : 42min35 ❌
-  - Project 8 : 40min55 ❌
+  - Project 8 : 40min55 ✅
 
 ❌ (If needed) Maths for ML [ 0% ]
   - 0.0 : 00min00 ❌
