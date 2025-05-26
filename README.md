@@ -1,6 +1,6 @@
 # LafayetteUSA
 ## Task 2 : ML course with Python Playlist
-➡️ Total : 5 h 31 min 41 s
+➡️ Total : 7 h 11 min 47 s
 
 ### Vidéo [Playlist]([https://www.youtube.com/watch?v=r-uOLxNrNk8]) 
 
