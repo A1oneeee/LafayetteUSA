@@ -31,7 +31,7 @@
   - Project 9 : 42min35 ✅
   - Project 8 : 40min55 ✅
 
-❌ (If needed) Maths for ML [ 0% ]
+✅ (If needed) Maths for ML [ 0% ]  ---> NO NEED
   - 0.0 : 00min00 ❌
 
 🔃 Machine Learning : 6.1 - 7.2.6 [ 5% ]
