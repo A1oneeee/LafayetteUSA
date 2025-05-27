@@ -62,7 +62,7 @@
   - Project Spam Mail : 1h02min54 ✅
 
 🔃 Machine Learning : 7.3.1 - 7.3.7 [ 0% ]
-  - 7.3.1 : 15min ❌
+  - 7.3.1 : 15min ✅
   - 7.3.2 : 31min ❌
   - 7.3.3 : 19min ❌
   - 7.3.4 : 22min ❌
