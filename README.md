@@ -61,9 +61,9 @@
 ✅ Pick one project [ 100% ] (17 or 18)
   - Project Spam Mail : 1h02min54 ✅
 
-🔃 Machine Learning : 7.3.1 - 7.3.7 [ 0% ]
+🔃 Machine Learning : 7.3.1 - 7.3.7 [ 25% ]
   - 7.3.1 : 15min ✅
-  - 7.3.2 : 31min ❌
+  - 7.3.2 : 31min ✅
   - 7.3.3 : 19min ❌
   - 7.3.4 : 22min ❌
   - 7.3.5 : 18min ❌
